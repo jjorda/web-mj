@@ -39,3 +39,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 WIP: FOllowing this tutorial: https://medium.com/@a.pirus/how-to-create-a-responsive-navigation-bar-in-next-js-13-e5540789a017
 
 https://github.com/AnastasiiaPirus/source-code-for-blogs/blob/main/next-navigation-bar/app/layout.tsx
+
+commit for deploy
